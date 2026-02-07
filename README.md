@@ -1,413 +1,737 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,24&height=200&section=header&text=Nimit%20Gupta&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Building%20Production-Ready%20AI%20Solutions&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27,30&height=250&section=header&text=NIMIT%20GUPTA&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Transforming%20Ideas%20Into%20Intelligent%20Solutions%20✨&descAlignY=60&descAlign=50&descSize=25" width="100%"/>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+AI%2FML+Engineer+%7C+Backend+Architect;💡+Building+Production-Grade+Intelligence;🎯+Python+•+FastAPI+•+Deep+Learning;⚡+Where+Code+Meets+Understanding" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nimitgupta05">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:guptanimit062@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email"/>
+  </a>
+  <a href="https://github.com/Nimit746">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/ngupta85_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square" alt="Instagram"/>
+  </a>
+  <a href="https://codepen.io/@Nimit-Gupta">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&style=flat-square" alt="CodePen"/>
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🧠+AI+%26+Machine+Learning+Developer;🔮+FastAPI+%26+Backend+Specialist;🎯+Deep+Learning+%7C+Computer+Vision;📊+Building+Real-World+Solutions;💡+Code+Quality+%26+Understanding&font=Fira+Code&center=true&width=800&height=80&duration=4000&pause=1000&size=22&color=FF00FF">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-</div>
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-## 🎭 **Who Am I?**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **THE DEVELOPER BEHIND THE CODE**
 
-<img align="right" alt="AI Animation" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhxZ3R3Ym1oZGRmMzFxYjBnOW5rZW1hMGpvdXF5dG1qbWY4YnRvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        
+### 🎯 **CURRENT MISSION**
 
-```yaml
-name: Nimit Gupta
-role: AI/ML Developer & Backend Engineer
-current_mission: |
-  Building end-to-end AI/ML projects with Python,
-  focusing on production-ready solutions that don't
-  just work—but are understood and optimized
-  
-focus_areas:
-  - Machine Learning & Deep Learning (CNNs)
-  - Backend Development with FastAPI & MongoDB
-  - Model Development & Deployment
-  - Clean, Scalable Production Code
-  
-motto: |
-  "I don't just want code that works—
-   I want to understand why it works and how to make it better"
+```javascript
+const developer = {
+    name: "Nimit Gupta",
+    title: "AI/ML Engineer & Backend Architect",
+    location: "Delhi, India 🇮🇳",
+    
+    workingOn: [
+        "End-to-end AI/ML pipelines",
+        "Production-grade FastAPI backends",
+        "Deep Learning model optimization",
+        "Scalable MongoDB architectures"
+    ],
+    
+    philosophy: `
+        Code that works ✓
+        Code that's understood ✓✓
+        Code that's optimized ✓✓✓
+    `,
+    
+    currentlyLearning: {
+        deepLearning: ["CNNs", "Neural Networks", "Transfer Learning"],
+        mlOps: ["Model Deployment", "Pipeline Optimization"],
+        systemDesign: ["ML Services", "API Architecture"],
+        bestPractices: ["Clean Code", "SOLID Principles"]
+    }
+};
 
-fun_fact: |
-  I break down complex problems and turn ideas into
-  working software with real impact 🚀
+console.log("Building the future, one algorithm at a time 🚀");
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%" valign="top">
 
----
+### 💭 **PHILOSOPHY & APPROACH**
 
-## 🔬 **Current Focus & Development**
+<br>
+
+> **"I don't just want code that works—**  
+> **I want to understand WHY it works**  
+> **and HOW to make it BETTER."**
+
+<br>
+
+**My Development Mantra:**
+
+🔍 **Curiosity First** → Question everything  
+🧩 **Break It Down** → Complex → Simple  
+⚡ **Build & Learn** → Theory meets practice  
+🎯 **Optimize Always** → Good → Better → Best  
+📚 **Share Knowledge** → Grow together  
+
+<br>
+
+**Impact Over Buzzwords**  
+Real-world solutions that matter, not just trends that fade.
+
+</td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **TECH STACK & EXPERTISE**
+
+<div align="center">
+
+### **🤖 ARTIFICIAL INTELLIGENCE & MACHINE LEARNING**
 
 <table>
 <tr>
-<td width="50%">
-
-### 🤖 **AI/ML Projects**
-Building intelligent systems with:
-- 🎯 End-to-end ML pipelines
-- 🧩 Model development & training
-- 🔄 Production deployment strategies
-- 🎪 Real-world problem solving
-
-**Stack**: TensorFlow, PyTorch, Scikit-learn, OpenCV
-
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><strong>Python</strong>
 </td>
-<td width="50%">
-
-### 🚀 **Backend Architecture**
-Creating robust API systems:
-- 🔧 FastAPI for high-performance APIs
-- 💾 MongoDB database integration
-- 🎯 RESTful API design
-- ⚡ Scalable project structuring
-
-**Stack**: FastAPI, MongoDB, REST APIs, Python
-
+<td align="center" width="20%">
+<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="65" height="65" />
+<br><strong>TensorFlow</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" alt="PyTorch" width="65" height="65" />
+<br><strong>PyTorch</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65" />
+<br><strong>Scikit-Learn</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.worldvectorlogo.com/logos/keras-2.svg" alt="Keras" width="65" height="65" />
+<br><strong>Keras</strong>
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+**🔥 Core ML Capabilities**
 
----
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Advanced-FF006E?style=for-the-badge&logo=pytorch&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-Specialist-00F5FF?style=for-the-badge&logo=neural&logoColor=white)
+![Model Deployment](https://img.shields.io/badge/Model_Deployment-Production-FFB800?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🛠️ **Technology Arsenal**
-
-<details open>
-<summary><b>🧠 AI/ML Core</b></summary>
 <br>
 
-```python
-ai_toolkit = {
-    'deep_learning': ['TensorFlow', 'PyTorch', 'Keras', 'CNNs'],
-    'ml_frameworks': ['Scikit-learn', 'Model Development'],
-    'data_science': ['Pandas', 'NumPy', 'Matplotlib', 'SciPy'],
-    'computer_vision': ['OpenCV', 'Image Processing'],
-    'specializations': ['Machine Learning', 'Deep Learning', 'Model Deployment']
-}
-```
+### **📊 DATA SCIENCE & ANALYTICS**
 
-<div align="center">
-  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="65" height="65" />
+<br><strong>NumPy</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="65" height="65" />
+<br><strong>Pandas</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="65" height="65" />
+<br><strong>Matplotlib</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="SciPy" width="65" height="65" />
+<br><strong>SciPy</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.worldvectorlogo.com/logos/opencv-1.svg" alt="OpenCV" width="65" height="65" />
+<br><strong>OpenCV</strong>
+</td>
+</tr>
+</table>
 
-</div>
-</details>
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Expert-4C8BF5?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/Data_Visualization-Advanced-FF6B9D?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-Proficient-00C9A7?style=for-the-badge)
 
-<details>
-<summary><b>🔮 Backend & APIs</b></summary>
 <br>
 
-```python
-backend_stack = {
-    'frameworks': ['FastAPI', 'Express.js', 'Node.js'],
-    'databases': ['MongoDB', 'MySQL'],
-    'api_design': ['REST APIs', 'Project Structuring'],
-    'tools': ['Postman', 'Nodemon', 'NPM']
-}
-```
+### **⚡ BACKEND & API DEVELOPMENT**
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="65" height="65" />
+<br><strong>FastAPI</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="65" height="65" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="65" height="65" />
+<br><strong>Express.js</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="MySQL" width="65" height="65" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
+<br><strong>Postman</strong>
+</td>
+</tr>
+</table>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![API Development](https://img.shields.io/badge/REST_APIs-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-Advanced-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-Proficient-68A063?style=for-the-badge&logo=node.js&logoColor=white)
 
-</div>
-</details>
-
-<details>
-<summary><b>💻 Development Stack</b></summary>
 <br>
 
-<div align="center">
+### **🎨 FRONTEND & UI DEVELOPMENT**
 
-**Languages**
+<table>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="65" height="65" />
+<br><strong>Next.js</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="65" height="65" />
+<br><strong>Tailwind CSS</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="65" height="65" />
+<br><strong>Bootstrap</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="65" height="65" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="65" height="65" />
+<br><strong>CSS3</strong>
+</td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![React Development](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Modern CSS](https://img.shields.io/badge/Modern_CSS-Expert-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-Proficient-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**Frontend Frameworks**
+<br>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+### **🛠️ DEVELOPMENT TOOLS & PLATFORMS**
 
-**Tools & Platforms**
+<table>
+<tr>
+<td align="center" width="12.5%">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="65" height="65" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="65" height="65" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="12.5%">
+<img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="Anaconda" width="65" height="65" />
+<br><strong>Anaconda</strong>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.worldvectorlogo.com/logos/streamlit.svg" alt="Streamlit" width="65" height="65" />
+<br><strong>Streamlit</strong>
+</td>
+<td align="center" width="12.5%">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="65" height="65" />
+<br><strong>Figma</strong>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="65" height="65" />
+<br><strong>Canva</strong>
+</td>
+<td align="center" width="12.5%">
+<img src="https://vitejs.dev/logo.svg" alt="Vite" width="65" height="65" />
+<br><strong>Vite</strong>
+</td>
+</tr>
+</table>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+**⚙️ Additional Tools**
 
-**Deployment**
-
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-**Design**
+<br>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chart.js&logoColor=white)
+### **💻 PROGRAMMING LANGUAGES**
 
-</div>
-</details>
-
----
-
-## 📈 **GitHub Journey**
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nimit746&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true" />
-  
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Nimit746&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" />
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimit746&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8&include_all_commits=true&count_private=true" />
-  
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nimit746&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nimit746&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</div>
-
----
-
-## 🎯 **Active Explorations**
-
-<div align="center">
-
-| 🔬 **Learning** | 🛠️ **Building** | 🤝 **Collaborating** |
-|:---:|:---:|:---:|
-| Machine Learning Fundamentals | End-to-End ML Projects | Applied AI Projects |
-| Deep Learning (CNNs) | FastAPI Backend Services | Machine Learning Systems |
-| Model Deployment Strategies | MongoDB Integration | Backend Development |
-| Production Best Practices | Clean Architecture | Open Source Tools |
-
-</div>
-
----
-
-## 💡 **Areas of Expertise**
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
-<b>Machine Learning</b><br>
-<sub>Model Development & Training</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
-<b>Backend APIs</b><br>
-<sub>FastAPI & MongoDB</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
-<b>Deep Learning</b><br>
-<sub>CNNs & Neural Networks</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
-<b>Production Code</b><br>
-<sub>Clean & Scalable Systems</sub>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🌟 **Let's Build Together**
-
-<div align="center">
-  
-  I'm actively seeking collaborators for:
-  
-  🤖 **Applied AI Projects** → Machine learning with real-world impact
-  
-  🔧 **Backend Development** → Building robust API systems
-  
-  🌐 **Open Source Tools** → Contributing to the community
-  
-  📚 **Learning in Public** → Sharing knowledge and growing together
-
-</div>
-
----
-
-## 💬 **What I Bring to the Table**
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 💡 **Ask Me About**
-- Python programming & best practices
-- Machine Learning fundamentals
-- FastAPI backend development
-- MongoDB database design
-- Project structuring & architecture
-- Explaining technical concepts clearly
-
-</td>
-<td width="50%">
-
-### 🤝 **Looking for Help With**
-- Advanced model deployment strategies
-- System design for ML services
-- Writing clean, scalable production code
-- ML deployment best practices
-- Improving model performance
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🚀 **My Development Philosophy**
-
-<div align="center">
-  
-```python
-class DevelopmentPhilosophy:
-    def __init__(self):
-        self.principles = {
-            'quality': 'Code that works is good. Code that you understand is better.',
-            'learning': 'Break down complex problems into understandable pieces',
-            'impact': 'Learning and real impact matter more than buzzwords',
-            'growth': 'Always asking "why" and "how can this be better?"'
-        }
-    
-    def approach(self):
-        return """
-        1. Understand the problem deeply
-        2. Build a working solution
-        3. Understand why it works
-        4. Make it better
-        5. Share the knowledge
-        """
-    
-    def current_goals(self):
-        return [
-            "Master ML model deployment",
-            "Build production-ready AI systems",
-            "Improve system design skills",
-            "Contribute to open source",
-            "Learn in public, grow together"
-        ]
-```
-
-</div>
-
----
-
-## 📊 **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nimit746&theme=tokyo-night&hide_border=true&area=true" width="100%">
-</div>
-
----
-
-## 📬 **Connect & Collaborate**
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/nimitgupta05">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:guptanimit062@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Nimit746">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Journey-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ngupta85_">
-    <img src="https://img.shields.io/badge/Instagram-Daily_Updates-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/@Nimit-Gupta">
-    <img src="https://img.shields.io/badge/Codepen-Creative_Code-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
-<div align="center">
-  
-### 💭 *Philosophy*
-
-**"I don't just want code that works—**  
-**I want to understand why it works and how to make it better."**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
-
-*Currently: Building production-ready AI/ML solutions | Learning in public | Sharing knowledge*
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-Proficient-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 <br>
 
----
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### ✍️ Random Dev Quote
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> **WHAT I'M UP TO**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120"><br>
+        <h3>🔭 CURRENTLY BUILDING</h3>
+        <p align="left">
+        ✨ End-to-end AI/ML projects<br>
+        🚀 Production-ready ML pipelines<br>
+        ⚡ FastAPI backend services<br>
+        🗄️ MongoDB integration systems<br>
+        🤖 Deep learning models (CNNs)<br>
+        🎯 Computer vision applications
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="120"><br>
+        <h3>🌱 CURRENTLY LEARNING</h3>
+        <p align="left">
+        🧠 Machine Learning fundamentals<br>
+        🔥 Deep Learning (CNNs, RNNs)<br>
+        📦 Model deployment strategies<br>
+        🏗️ System design for ML services<br>
+        ✍️ Clean code practices<br>
+        🎨 Scalable architecture patterns
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120"><br>
+        <h3>🤝 OPEN TO COLLABORATE</h3>
+        <p align="left">
+        🤖 Applied AI/ML projects<br>
+        🔧 Backend system development<br>
+        🌐 Open-source ML tools<br>
+        📚 Technical content creation<br>
+        💡 Innovative AI solutions<br>
+        🚀 Startup projects & MVPs
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **GITHUB ANALYTICS**
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Nimit746&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nimit746&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10&count_private=true&include_all_commits=true&ring_color=FF006E" />
+  
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Nimit746&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF006E&currStreakLabel=00D9FF&border_radius=10" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimit746&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&langs_count=10&include_all_commits=true&count_private=true" />
+  
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nimit746&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF&area=true&hide_border=true&border_radius=10&custom_title=Contribution%20Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nimit746&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
+</div>
+
+<br>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-4379-b6c4-7b222fbc94a1.png" width="40"> **EXPERTISE MATRIX**
+
+<div align="center">
+
+| 🎯 **Domain** | 💪 **Proficiency** | 🔥 **Key Skills** |
+|:---|:---:|:---|
+| **AI/ML Engineering** | ⭐⭐⭐⭐⭐ | Model Development • Training • Optimization • Deployment |
+| **Deep Learning** | ⭐⭐⭐⭐ | CNNs • Neural Networks • Transfer Learning • Computer Vision |
+| **Backend Development** | ⭐⭐⭐⭐⭐ | FastAPI • REST APIs • MongoDB • Database Design |
+| **Data Science** | ⭐⭐⭐⭐⭐ | NumPy • Pandas • Analysis • Visualization • Processing |
+| **Frontend Development** | ⭐⭐⭐⭐ | React • Next.js • Tailwind • Responsive Design |
+| **System Architecture** | ⭐⭐⭐⭐ | Scalable Design • API Architecture • Production Systems |
+| **DevOps & Deployment** | ⭐⭐⭐ | Git • CI/CD • Cloud Platforms • Docker Basics |
+
+</div>
+
+<br>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="40"> **LET'S CONNECT & BUILD**
+
+<div align="center">
+
+### 🌟 **I'm Always Excited About:**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💡 **Ask Me About**
+
+🐍 **Python Programming**  
+→ Best practices, design patterns, optimization
+
+🤖 **Machine Learning**  
+→ Model building, training, evaluation, deployment
+
+⚡ **FastAPI Development**  
+→ API design, async programming, authentication
+
+🗄️ **MongoDB & Databases**  
+→ Schema design, queries, optimization
+
+🏗️ **Project Architecture**  
+→ Structuring scalable applications
+
+📚 **Technical Concepts**  
+→ Explaining complex ideas simply
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 **Looking for Help With**
+
+🚀 **Advanced Deployment**  
+→ ML model serving at scale
+
+🏛️ **System Design**  
+→ Architecture for ML services
+
+✨ **Code Quality**  
+→ Writing cleaner, more maintainable code
+
+🎯 **Best Practices**  
+→ Production ML pipelines
+
+🔧 **DevOps for ML**  
+→ MLOps practices and tools
+
+🌐 **Open Source**  
+→ Contributing effectively to projects
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 📬 **Reach Out & Collaborate**
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/nimitgupta05">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+      </a>
+      <br><sub>Professional Network</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:guptanimit062@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+      </a>
+      <br><sub>Direct Message</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Nimit746">
+        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+      </a>
+      <br><sub>Code Portfolio</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://instagram.com/ngupta85_">
+        <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+      </a>
+      <br><sub>Daily Updates</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+**Additional Platforms**
+
+<a href="https://codepen.io/@Nimit-Gupta">
+  <img src="https://img.shields.io/badge/CodePen-Creative_Code-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## 🎓 **LEARNING ROADMAP 2024**
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Current Skills] --> B[Machine Learning Mastery]
+    A --> C[Deep Learning Advanced]
+    A --> D[Production ML Systems]
+    
+    B --> E[Model Optimization]
+    B --> F[Feature Engineering]
+    
+    C --> G[Advanced CNNs]
+    C --> H[Transfer Learning]
+    
+    D --> I[MLOps]
+    D --> J[Scalable Deployment]
+    
+    E --> K[AI Engineer Pro]
+    F --> K
+    G --> K
+    H --> K
+    I --> K
+    J --> K
+    
+    style A fill:#00D9FF
+    style K fill:#FF006E
+    style B fill:#00F5FF
+    style C fill:#00F5FF
+    style D fill:#00F5FF
+```
+
+</div>
+
+<br>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## 💭 **DEVELOPMENT PHILOSOPHY**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+</div>
+
+<br>
+
+<div align="center">
+
+### **"Code is not just about making things work—**
+### **it's about understanding WHY they work**
+### **and continuously making them BETTER."**
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="60"><br>
+<strong>Understand Deeply</strong><br>
+<sub>Question. Research. Learn.</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d5d84c0.png" width="60"><br>
+<strong>Build Iteratively</strong><br>
+<sub>Prototype. Test. Refine.</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-4379-b6c4-7b222fbc94a1.png" width="60"><br>
+<strong>Optimize Always</strong><br>
+<sub>Measure. Improve. Repeat.</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15d2d455-842f-41fd-9b47-995bfe367905.png" width="60"><br>
+<strong>Share Knowledge</strong><br>
+<sub>Document. Teach. Grow.</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+**🎯 Core Principles:**
+
+💎 **Quality Over Quantity** • Real impact beats buzzwords  
+🔍 **Curiosity Driven** • Always asking "why" and "how"  
+🚀 **Production Mindset** • Build for real-world deployment  
+📚 **Learn in Public** • Share the journey, help others grow  
+🤝 **Collaborate Actively** • Best solutions come from teamwork  
+
+</div>
+
+<br>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## ✍️ **RANDOM DEV WISDOM**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+</div>
+
+<br>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## 🏆 **ACHIEVEMENTS & RECOGNITION**
+
+<div align="center">
+  
+### **GitHub Contributions**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nimit746&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF" width="100%">
+
+<br><br>
+
+### **Contribution Stats**
+
+![](https://github-contributor-stats.vercel.app/api?username=Nimit746&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+</div>
+
+<br>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## 📊 **WEEKLY DEVELOPMENT BREAKDOWN**
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 45 mins  ████████████░░░░░░░░  55.2%
+JavaScript    5 hrs 30 mins  ██████░░░░░░░░░░░░░░  23.8%
+MongoDB       2 hrs 15 mins  ███░░░░░░░░░░░░░░░░░  09.8%
+JSON          1 hr 20 mins   ██░░░░░░░░░░░░░░░░░░  05.8%
+Markdown      1 hr 15 mins   █░░░░░░░░░░░░░░░░░░░  05.4%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+<br>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+  
+  ### 💫 **"Building Tomorrow's Solutions with Today's Code"**
+  
+  <sub>Currently architecting intelligent systems • Learning in public • Growing together 🚀</sub>
+  
+  <br><br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Nimit746&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+  ![GitHub Followers](https://img.shields.io/github/followers/Nimit746?label=Followers&style=for-the-badge&color=FF006E&logo=github)
+  ![GitHub Stars](https://img.shields.io/github/stars/Nimit746?label=Stars&style=for-the-badge&color=00F5FF&logo=github)
+  
+  <br>
+  
+  **⭐ Star my repositories if you find them helpful!**
+  
+</div>
+
+<br>
+
+<!-- Footer Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27,30&height=150&section=footer&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,24&height=100&section=footer" width="100%"/>
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/Nimit746">Nimit746</a> with 💜 | Powered by curiosity & continuous learning ☕</sub>
+  <sub>Made with 💜 by <a href="https://github.com/Nimit746">Nimit Gupta</a> • Powered by curiosity, coffee, and countless iterations ☕✨</sub>
 </div>
