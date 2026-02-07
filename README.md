@@ -145,9 +145,9 @@ Real-world solutions that matter, not just trends that fade.
 
 **🔥 Core ML Capabilities**
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Advanced-FF006E?style=for-the-badge&logo=pytorch&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNNs-Specialist-00F5FF?style=for-the-badge&logo=neural&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Beginner-FF006E?style=for-the-badge&logo=pytorch&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-Beginner-00F5FF?style=for-the-badge&logo=neural&logoColor=white)
 ![Model Deployment](https://img.shields.io/badge/Model_Deployment-Production-FFB800?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
@@ -179,9 +179,9 @@ Real-world solutions that matter, not just trends that fade.
 </tr>
 </table>
 
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Expert-4C8BF5?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Advanced-4C8BF5?style=for-the-badge)
 ![Visualization](https://img.shields.io/badge/Data_Visualization-Advanced-FF6B9D?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-Proficient-00C9A7?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-Beginner-00C9A7?style=for-the-badge)
 
 <br>
 
@@ -216,8 +216,8 @@ Real-world solutions that matter, not just trends that fade.
 </tr>
 </table>
 
-![API Development](https://img.shields.io/badge/REST_APIs-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database_Design-Advanced-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![API Development](https://img.shields.io/badge/REST_APIs-Proficient-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-Proficient-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-Proficient-68A063?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br>
@@ -314,11 +314,11 @@ Real-world solutions that matter, not just trends that fade.
 
 ### **💻 PROGRAMMING LANGUAGES**
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-Proficient-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Proficient-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -416,13 +416,13 @@ Real-world solutions that matter, not just trends that fade.
 
 | 🎯 **Domain** | 💪 **Proficiency** | 🔥 **Key Skills** |
 |:---|:---:|:---|
-| **AI/ML Engineering** | ⭐⭐⭐⭐⭐ | Model Development • Training • Optimization • Deployment |
-| **Deep Learning** | ⭐⭐⭐⭐ | CNNs • Neural Networks • Transfer Learning • Computer Vision |
-| **Backend Development** | ⭐⭐⭐⭐⭐ | FastAPI • REST APIs • MongoDB • Database Design |
-| **Data Science** | ⭐⭐⭐⭐⭐ | NumPy • Pandas • Analysis • Visualization • Processing |
+| **AI/ML Engineering** | ⭐⭐⭐⭐ | Model Development • Training • Optimization • Deployment |
+| **Deep Learning** | ⭐ | CNNs • Neural Networks • Transfer Learning • Computer Vision |
+| **Backend Development** | ⭐⭐⭐ | FastAPI • REST APIs • MongoDB • Database Design |
+| **Data Science** | ⭐⭐⭐⭐ | NumPy • Pandas • Analysis • Visualization • Processing |
 | **Frontend Development** | ⭐⭐⭐⭐ | React • Next.js • Tailwind • Responsive Design |
-| **System Architecture** | ⭐⭐⭐⭐ | Scalable Design • API Architecture • Production Systems |
-| **DevOps & Deployment** | ⭐⭐⭐ | Git • CI/CD • Cloud Platforms • Docker Basics |
+| **System Architecture** | ⭐⭐⭐ | Scalable Design • API Architecture • Production Systems |
+| **DevOps & Deployment** | ⭐⭐⭐ | Git • CI/CD • Cloud Platforms |
 
 </div>
 
@@ -544,7 +544,7 @@ Real-world solutions that matter, not just trends that fade.
 
 <br>
 
-## 🎓 **LEARNING ROADMAP 2024**
+## 🎓 **LEARNING ROADMAP 2025**
 
 <div align="center">
 
@@ -554,8 +554,8 @@ graph LR
     A --> C[Deep Learning Advanced]
     A --> D[Production ML Systems]
     
-    B --> E[Model Optimization]
-    B --> F[Feature Engineering]
+    B --> A[Model Optimization]
+    B --> A[Feature Engineering]
     
     C --> G[Advanced CNNs]
     C --> H[Transfer Learning]
