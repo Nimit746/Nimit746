@@ -554,8 +554,8 @@ graph LR
     A --> C[Deep Learning Advanced]
     A --> D[Production ML Systems]
     
-    B --> A[Model Optimization]
-    B --> A[Feature Engineering]
+    B --> E[Model Optimization]
+    B --> F[Feature Engineering]
     
     C --> G[Advanced CNNs]
     C --> H[Transfer Learning]
@@ -575,6 +575,8 @@ graph LR
     style B fill:#00F5FF
     style C fill:#00F5FF
     style D fill:#00F5FF
+    style E fill:#00F5FF
+    style F fill:#00F5FF
 ```
 
 </div>
