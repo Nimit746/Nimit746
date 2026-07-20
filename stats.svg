@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="220" viewBox="0 0 540 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#FF006E"/>
+      <stop offset="50%"  stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#FF006E"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .sans { font-family:'Segoe UI',Ubuntu,sans-serif; }
+    .mono { font-family:'Fira Code','Courier New',monospace; }
+    @keyframes fadeUp { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
+    @keyframes growBar { from { stroke-dasharray:0 302; } to { stroke-dasharray:226 302; } }
+    .row { opacity:0; animation: fadeUp .4s ease-out forwards; }
+    .r1{animation-delay:.2s;} .r2{animation-delay:.35s;} .r3{animation-delay:.5s;}
+    .r4{animation-delay:.65s;} .r5{animation-delay:.8s;} .r6{animation-delay:.95s;}
+    .ring-track { fill:none; stroke:#21262D; stroke-width:8; }
+    .ring-fill  { fill:none; stroke:url(#ring); stroke-width:8; stroke-linecap:round;
+                  stroke-dasharray:0 302;
+                  animation: growBar 1.4s ease-out .3s forwards; }
+  </style>
+
+  <!-- Background + border -->
+  <rect width="540" height="220" rx="14" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="539" height="219" rx="14"
+        fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.5"/>
+
+  <!-- Top accent line -->
+  <rect x="16" y="0" width="508" height="3" rx="1.5" fill="url(#accent)" opacity="0.8"/>
+
+  <!-- Title -->
+  <text x="16" y="30" class="sans" font-size="15" font-weight="700" fill="#E6EDF3">
+    📊 GitHub Stats
+  </text>
+  <text x="524" y="30" class="sans" font-size="10" fill="#484F58"
+        text-anchor="end">Nimit746 · Updated Jul 2026</text>
+
+  <!-- Rank ring (right side) — B+ rank based on ~281 commits, 30 repos -->
+  <g transform="translate(462, 115)">
+    <circle cx="0" cy="0" r="48" class="ring-track"/>
+    <circle cx="0" cy="0" r="48" class="ring-fill"
+            transform="rotate(-90)"/>
+    <text x="0" y="-8"  class="sans" font-size="20" font-weight="900"
+          fill="#F0F6FC" text-anchor="middle">B+</text>
+    <text x="0" y="8"   class="sans" font-size="9"  fill="#8B949E"
+          text-anchor="middle">Rank</text>
+  </g>
+
+  <!-- Stats rows -->
+  <g transform="translate(16, 54)" class="sans" font-size="13">
+
+    <g transform="translate(0,0)"><g class="row r1">
+      <text y="0" fill="#8B949E">⭐ Total Stars Earned</text>
+      <text x="370" y="0" fill="#E6EDF3" font-weight="700"
+            text-anchor="end">2</text>
+    </g></g>
+
+    <g transform="translate(0,28)"><g class="row r2">
+      <text y="0" fill="#8B949E">🔀 Total Commits</text>
+      <text x="370" y="0" fill="#E6EDF3" font-weight="700"
+            text-anchor="end">281</text>
+    </g></g>
+
+    <g transform="translate(0,56)"><g class="row r3">
+      <text y="0" fill="#8B949E">🔁 Total PRs</text>
+      <text x="370" y="0" fill="#E6EDF3" font-weight="700"
+            text-anchor="end">9</text>
+    </g></g>
+
+    <g transform="translate(0,84)"><g class="row r4">
+      <text y="0" fill="#8B949E">🐛 Total Issues</text>
+      <text x="370" y="0" fill="#E6EDF3" font-weight="700"
+            text-anchor="end">18</text>
+    </g></g>
+
+    <g transform="translate(0,112)"><g class="row r5">
+      <text y="0" fill="#8B949E">📦 Public Repos</text>
+      <text x="370" y="0" fill="#E6EDF3" font-weight="700"
+            text-anchor="end">30</text>
+    </g></g>
+
+  </g>
+
+  <!-- Bottom accent -->
+  <rect x="16" y="217" width="508" height="3" rx="1.5" fill="url(#accent)" opacity="0.8"/>
+
+</svg>
